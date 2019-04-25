@@ -1,0 +1,19 @@
+html, body {
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+}
+
+canvas {
+  display: block;
+  margin: 50px auto;
+}
+
+#sketch-container {
+  width: 800px;
+  margin: 0 auto;
+}
+
+#source {
+  float: right;
+}
